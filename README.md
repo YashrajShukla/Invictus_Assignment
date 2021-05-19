@@ -1,4 +1,4 @@
-Heroku link: https://ttt-deep.herokuapp.com/
+Heroku link: https://yrs-invictus-assignment.herokuapp.com/
 
 # Installation:
 
